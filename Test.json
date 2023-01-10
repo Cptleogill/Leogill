@@ -8,52 +8,52 @@
     {
       "UserId": "1",
       "firstName": "Basharat Gill",
-      "Status": "ofline"
+      "Status": "offline"
     },
     {
       "UserId": "2",
       "firstName": "Wajahad",
-      "Status": "live"
+      "Status": "online"
     },
     {
       "UserId": "3",
       "firstName": "wajahad irfan",
-      "Status": "live"
+      "Status": "online"
     },
     {
       "UserId": "4",
       "firstName": "Basharat",
-      "Status": "live"
+      "Status": "offline"
     },
     {
       "UserId": "5",
       "firstName": "Basharat sardar",
-      "Status": "live"
+      "Status": "online"
     },
     {
       "UserId": "6",
       "firstName": "Farrukh",
-      "Status": "live"
+      "Status": "offline"
     },
     {
       "UserId": "7",
       "firstName": "Farrukh Sarfaraz",
-      "Status": "live"
+      "Status": "online"
     },
     {
       "UserId": "8",
       "firstName": "Leo",
-      "Status": "live"
+      "Status": "online"
     },
     {
       "UserId": "9",
       "firstName": "Leo gill",
-      "Status": "live"
+      "Status": "online"
     },
     {
       "UserId": "10",
       "firstName": "Leo gill ff",
-      "Status": "live"
+      "Status": "offline"
     }
  ]
 }
