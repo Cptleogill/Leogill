@@ -10,43 +10,43 @@
       "UserId": "1",
       "firstName": "Basharat Gill",
       "Status": "offline",
-      "Roll": "Public"
+      "Roll": "mod"
     },
     {
       "UserId": "2",
       "firstName": "Wajahad",
       "Status": "online",
-      "Roll": "Public"
+      "Roll": "mod"
     },
     {
       "UserId": "3",
       "firstName": "wajahad irfan",
       "Status": "online",
-      "Roll": "Public"
+      "Roll": "owner"
     },
     {
       "UserId": "4",
       "firstName": "Basharat",
       "Status": "offline",
-      "Roll": "Public"
+      "Roll": "vip"
     },
     {
       "UserId": "5",
       "firstName": "Basharat sardar",
       "Status": "online",
-      "Roll": "Public"
+      "Roll": "mod"
     },
     {
       "UserId": "6",
       "firstName": "Farrukh",
       "Status": "offline",
-      "Roll": "Public"
+      "Roll": "public"
     },
     {
       "UserId": "7",
       "firstName": "Farrukh Sarfaraz",
       "Status": "online",
-      "Roll": "Public"
+      "Roll": "mod"
     },
     {
       "UserId": "8",
