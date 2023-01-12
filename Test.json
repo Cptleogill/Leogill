@@ -3,57 +3,68 @@
     {
       "UserId": "0",
       "firstName": "Leogillff",
-      "Status": "online"
+      "Status": "online",
+      "Roll": "Public"
     },
     {
       "UserId": "1",
       "firstName": "Basharat Gill",
-      "Status": "offline"
+      "Status": "offline",
+      "Roll": "Public"
     },
     {
       "UserId": "2",
       "firstName": "Wajahad",
-      "Status": "online"
+      "Status": "online",
+      "Roll": "Public"
     },
     {
       "UserId": "3",
       "firstName": "wajahad irfan",
-      "Status": "online"
+      "Status": "online",
+      "Roll": "Public"
     },
     {
       "UserId": "4",
       "firstName": "Basharat",
-      "Status": "offline"
+      "Status": "offline",
+      "Roll": "Public"
     },
     {
       "UserId": "5",
       "firstName": "Basharat sardar",
-      "Status": "online"
+      "Status": "online",
+      "Roll": "Public"
     },
     {
       "UserId": "6",
       "firstName": "Farrukh",
-      "Status": "offline"
+      "Status": "offline",
+      "Roll": "Public"
     },
     {
       "UserId": "7",
       "firstName": "Farrukh Sarfaraz",
-      "Status": "online"
+      "Status": "online",
+      "Roll": "Public"
     },
     {
       "UserId": "8",
       "firstName": "Leo",
-      "Status": "online"
+      "Status": "online",
+      "Roll": "Public"
     },
     {
       "UserId": "9",
       "firstName": "Leo gill",
-      "Status": "online"
+      "Status": "online",
+      "Roll": "Public"
     },
     {
       "UserId": "10",
       "firstName": "Leo gill ff",
-      "Status": "offline"
+      "Status": "offline",
+      "Roll": "Public"
     }
  ]
 }
