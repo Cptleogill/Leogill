@@ -4,373 +4,373 @@
       "UserId": "0",
       "firstName": "Leogillff",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "1",
       "firstName": "Basharat Gill",
       "Status": "offline",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "2",
       "firstName": "Wajahad",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "3",
       "firstName": "wajahad irfan",
       "Status": "online",
-      "Roll": "owner"
+      "Public": "Yes"
     },
     {
       "UserId": "4",
       "firstName": "Basharat",
       "Status": "offline",
-      "Roll": "vip"
+      "Public": "Yes"
     },
     {
       "UserId": "5",
       "firstName": "Basharat sardar",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "6",
       "firstName": "Farrukh",
       "Status": "offline",
-      "Roll": "public"
+      "Public": "Yes"
     },
     {
       "UserId": "7",
       "firstName": "Farrukh Sarfaraz",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "8",
       "firstName": "Leo",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "9",
       "firstName": "Leo gill",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "10",
       "firstName": "Leo gill ff",
       "Status": "offline",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "11",
       "firstName": "Leogillff",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "12",
       "firstName": "Basharat Gill",
       "Status": "offline",
-      "Roll": "mod"
+     "Public": "Yes"
     },
     {
       "UserId": "13",
       "firstName": "Wajahad",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "14",
       "firstName": "wajahad irfan",
       "Status": "online",
-      "Roll": "owner"
+      "Public": "Yes"
     },
     {
       "UserId": "15",
       "firstName": "Basharat",
       "Status": "offline",
-      "Roll": "vip"
+      "Public": "Yes"
     },
     {
       "UserId": "16",
       "firstName": "Basharat sardar",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "17",
       "firstName": "Farrukh",
       "Status": "offline",
-      "Roll": "public"
+      "Public": "Yes"
     },
     {
       "UserId": "18",
       "firstName": "Farrukh Sarfaraz",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "19",
       "firstName": "Leo",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "20",
       "firstName": "Leo gill",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "21",
       "firstName": "Leo gill ff",
       "Status": "offline",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "22",
       "firstName": "Leogillff",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "23",
       "firstName": "Basharat Gill",
       "Status": "offline",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "24",
       "firstName": "Wajahad",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "25",
       "firstName": "wajahad irfan",
       "Status": "online",
-      "Roll": "owner"
+      "Public": "Yes"
     },
     {
       "UserId": "26",
       "firstName": "Basharat",
       "Status": "offline",
-      "Roll": "vip"
+      "Public": "Yes"
     },
     {
       "UserId": "27",
       "firstName": "Basharat sardar",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "28",
       "firstName": "Farrukh",
       "Status": "offline",
-      "Roll": "public"
+     "Public": "Yes"
     },
     {
       "UserId": "29",
       "firstName": "Farrukh Sarfaraz",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "30",
       "firstName": "Leo",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "31",
       "firstName": "Leo gill",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "32",
       "firstName": "Leo gill ff",
       "Status": "offline",
-      "Roll": "Public"
+     "Public": "Yes"
     },
     {
       "UserId": "33",
       "firstName": "Leogillff",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "34",
       "firstName": "Basharat Gill",
       "Status": "offline",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "35",
       "firstName": "Wajahad",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "36",
       "firstName": "wajahad irfan",
       "Status": "online",
-      "Roll": "owner"
+      "Public": "Yes"
     },
     {
       "UserId": "37",
       "firstName": "Basharat",
       "Status": "offline",
-      "Roll": "vip"
+      "Public": "Yes"
     },
     {
       "UserId": "38",
       "firstName": "Basharat sardar",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "39",
       "firstName": "Farrukh",
       "Status": "offline",
-      "Roll": "public"
+      "Public": "Yes"
     },
     {
       "UserId": "40",
       "firstName": "Farrukh Sarfaraz",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "41",
       "firstName": "Leo",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "42",
       "firstName": "Leo gill",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "43",
       "firstName": "Leo gill ff",
       "Status": "offline",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "44",
       "firstName": "Leogillff",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "45",
       "firstName": "Basharat Gill",
       "Status": "offline",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "46",
       "firstName": "Wajahad",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "47",
       "firstName": "wajahad irfan",
       "Status": "online",
-      "Roll": "owner"
+      "Public": "Yes"
     },
     {
       "UserId": "48",
       "firstName": "Basharat",
       "Status": "offline",
-      "Roll": "vip"
+      "Public": "Yes"
     },
     {
       "UserId": "49",
       "firstName": "Basharat sardar",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "50",
       "firstName": "Farrukh",
       "Status": "offline",
-      "Roll": "public"
+      "Public": "Yes"
     },
     {
       "UserId": "51",
       "firstName": "Farrukh Sarfaraz",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "52",
       "firstName": "Leo",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "53",
       "firstName": "Leo gill",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "54",
       "firstName": "Leo gill ff",
       "Status": "offline",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "55",
       "firstName": "Leogillff",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "56",
       "firstName": "Basharat Gill",
       "Status": "offline",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "57",
       "firstName": "Wajahad",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "58",
       "firstName": "wajahad irfan",
       "Status": "online",
-      "Roll": "owner"
+      "Public": "Yes"
     },
     {
       "UserId": "59",
       "firstName": "Basharat",
       "Status": "offline",
-      "Roll": "vip"
+      "Public": "Yes"
     },
     {
       "UserId": "60",
       "firstName": "Basharat sardar",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "61",
       "firstName": "Farrukh",
       "Status": "offline",
-      "Roll": "public"
+      "Public": "Yes"
     },
     {
       "UserId": "62",
@@ -406,61 +406,61 @@
       "UserId": "67",
       "firstName": "Basharat Gill",
       "Status": "offline",
-      "Roll": "mod"
+     "Public": "Yes"
     },
     {
       "UserId": "68",
       "firstName": "Wajahad",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "69",
       "firstName": "wajahad irfan",
       "Status": "online",
-      "Roll": "owner"
+      "Public": "Yes"
     },
     {
       "UserId": "70",
       "firstName": "Basharat",
       "Status": "offline",
-      "Roll": "vip"
+      "Public": "Yes"
     },
     {
       "UserId": "71",
       "firstName": "Basharat sardar",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "72",
       "firstName": "Farrukh",
       "Status": "offline",
-      "Roll": "public"
+      "Public": "Yes"
     },
     {
       "UserId": "73",
       "firstName": "Farrukh Sarfaraz",
       "Status": "online",
-      "Roll": "mod"
+      "Public": "Yes"
     },
     {
       "UserId": "74",
       "firstName": "Leo",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "75",
       "firstName": "Leo gill",
       "Status": "online",
-      "Roll": "Public"
+      "Public": "Yes"
     },
     {
       "UserId": "76",
       "firstName": "Leo gill ff",
       "Status": "offline",
-      "Roll": "Public"
+      "Public": "Yes"
     }
  ]
 }
