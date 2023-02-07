@@ -1,0 +1,172 @@
+{
+  "LobbyScreenInfo": [
+    {
+      "UserId": "0",
+      "firstName": "Leogillff",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "1",
+      "firstName": "Basharat Gill",
+      "Status": "offline",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "2",
+      "firstName": "Wajahad",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "3",
+      "firstName": "wajahad irfan",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "4",
+      "firstName": "Basharat",
+      "Status": "offline",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "5",
+      "firstName": "Basharat sardar",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "6",
+      "firstName": "Farrukh",
+      "Status": "offline",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "7",
+      "firstName": "Farrukh Sarfaraz",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "8",
+      "firstName": "Leo",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "9",
+      "firstName": "Leo gill",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "10",
+      "firstName": "Leo gill ff",
+      "Status": "offline",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "11",
+      "firstName": "Leogillff",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "12",
+      "firstName": "Basharat Gill",
+      "Status": "offline",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "13",
+      "firstName": "Wajahad",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "14",
+      "firstName": "wajahad irfan",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "15",
+      "firstName": "Basharat",
+      "Status": "offline",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "16",
+      "firstName": "Basharat sardar",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "17",
+      "firstName": "Farrukh",
+      "Status": "offline",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "18",
+      "firstName": "Farrukh Sarfaraz",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "19",
+      "firstName": "Leo",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "20",
+      "firstName": "Leo gill",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "21",
+      "firstName": "Leo gill ff",
+      "Status": "offline",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "22",
+      "firstName": "Leogillff",
+      "Status": "online",
+      "RoomNo.": "1",
+      "Pic": "1"
+    },
+    {
+      "UserId": "23",
+      "firstName": "Basharat Gill",
+      "Status": "offline",
+      "RoomNo.": "1",
+      "Pic": "1"
+    }
+  ]
+}
