@@ -1,0 +1,28 @@
+{
+  "user":[
+    {
+      "username": "Faseeh_Siddiqui",
+      "id": 19082,
+      "pictureLocation": "https://ggden.com/images/GG-def.png",
+      "Wallet": "520"
+    },
+    {
+      "username": "GS_Wasi",
+      "id": 21580,
+      "pictureLocation": "https://ggden.com/images/GG-4CE7EB66691A51B0E152BDF0D071628B.png",
+      "Wallet": "520"
+    },
+    {
+      "username": "Desi_SamYT",
+      "id": 21828,
+      "pictureLocation": "https://ggden.com/images/GG-870EE77C53BAD15D56BFF5A58033C4FD.jpg",
+      "Wallet": "520"
+    },
+    {
+      "username": "OfficerMaverick",
+      "id": 30016,
+      "pictureLocation": "https://ggden.com/images/GG-32F9B226C30CFD26B511E3A40680934F.jpeg",
+      "Wallet": "520"
+    }
+  ]
+}
